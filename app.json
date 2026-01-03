@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "mash",
-    "slug": "mash",
+    "name": "healhub",
+    "slug": "healhub",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "mash",
+    "scheme": "heal",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
